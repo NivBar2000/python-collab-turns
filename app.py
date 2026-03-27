@@ -10,3 +10,5 @@ add_entry("B: first change")#its me B
 add_entry("A: second change")
 
 add_entry("B: updating logic")#its me B  
+
+add_entry("A: refining update")
