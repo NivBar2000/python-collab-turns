@@ -7,4 +7,4 @@ for line in read_entries():
     
 add_entry("B: first change")#its me B    
 
-add_entry("B: updating logic")#yet me
+add_entry("A: second change")
