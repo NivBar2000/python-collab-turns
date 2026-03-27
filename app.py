@@ -1,4 +1,4 @@
-from utils import add_entry, read_entries, delete_last_entry
+from utils import add_entry, read_entries, delete_last_entry, read_entries
 
 add_entry("Project initialized by A")
 
@@ -31,3 +31,6 @@ add_entry("B iteration")
 add_entry("A iteration")
 
 add_entry("B iteration")
+
+for line in read_entries():
+    print(line)
